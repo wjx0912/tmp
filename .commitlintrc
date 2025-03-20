@@ -1,0 +1,19 @@
+{
+	"rules": {},
+	"prompt": {
+		"scopes": [
+			{"value": "base class",		"name": "基类修改"},
+			{"value": "utils",			"name": "工具类"},
+			{"value": "service",		"name": "service"},
+			{"value": "netflix",		"name": "站点实现或改版：netflix"},
+			{"value": "amazon",			"name": "站点实现或改版：amazon"},
+			{"value": "disneyplus",		"name": "站点实现或改版：disneyplus"},
+			{"value": "hulu",			"name": "站点实现或改版：hulu"},
+			{"value": "hbomax",			"name": "站点实现或改版：hbomax"},
+			{"value": "paramount",		"name": "站点实现或改版：paramount"},
+			{"value": "youtube",		"name": "站点实现或改版：youtube"},
+			{"value": "discovery",		"name": "站点实现或改版：discovery"},
+			{"value": "appletv",		"name": "站点实现或改版：appletv"}
+		]
+	}
+}
