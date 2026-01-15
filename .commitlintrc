@@ -13,6 +13,7 @@
 			{"value": "paramount",		"name": "站点实现或改版：paramount"},
 			{"value": "youtube",		"name": "站点实现或改版：youtube"},
 			{"value": "discovery",		"name": "站点实现或改版：discovery"},
+			{"value": "plex",		"name": "站点实现或改版：plex"},
 			{"value": "appletv",		"name": "站点实现或改版：appletv"}
 		]
 	}
